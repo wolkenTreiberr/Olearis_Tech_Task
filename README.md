@@ -48,7 +48,9 @@ lib/
 └── main.dart
 ```
 
-## Architecture Decisions
+## Architecture
+
+**Bloc architecture** with Cubit as a lightweight alternative to full Bloc. Layers: View → Cubit → Repository.
 
 **Cubit over Bloc** — Cubit is more intuitive for this scope. There are no incoming event streams or complex event transformations that would justify full Bloc. Cubit provides the same testability with less boilerplate.
 
