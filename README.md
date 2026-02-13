@@ -3,7 +3,7 @@
 Flutter test task — two-screen app (Sign In + Home) with adaptive layout, Cubit state management, and repository pattern.
 
 <p align="center">
-  <img src="assets/demo/demo.gif" width="300" alt="Demo">
+  <img src="assets/demo/demo.gif" width="100%" alt="Demo">
 </p>
 
 ## Getting Started
